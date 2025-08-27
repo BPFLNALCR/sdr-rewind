@@ -1,6 +1,6 @@
 # SDR-Rewind 📼
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Build Status](https://img.shields.io/badge/build-In_Progress-yellow)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%204%2F5-red)
 ![SDR](https://img.shields.io/badge/SDR-RTL--SDR-blue)
 ![Planned SDRs](https://img.shields.io/badge/Planned-HackRF%2C%20Airspy%2C%20LimeSDR-yellow)
